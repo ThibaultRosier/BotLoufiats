@@ -1,0 +1,161 @@
+**GOULET DU RASBOUL**
+:one: DUO
+:two: PREMIER
+:three: TEMPS QUI COURT
+:four: SCORE 200
+-
+:zero: **MAITRE CORBAC**
+:one: DUO
+:two: COLLANT
+:three: PREMIER
+:four: SCORE 200
+-
+:zero: **RAT BLANC**
+:one: DUO
+:two: PREMIER
+:three: HARDI
+:four: SCORE 200
+-
+:zero: **RAT NOIR**
+:one: DUO
+:two: BLITZKRIEG
+:three: HARDI
+:four: SCORE 200
+-
+:zero: **POUNICHEUR**
+:one: DUO
+:two: BLITZKRIEG
+:three: STATUE
+:four: SCORE 200
+-
+:zero: **DAMADRYA**
+:one: DUO
+:two: PREMIER
+:three: HARDI
+:four: SCORE 200
+-
+:zero: **BLOP MULTICOLOR ROYAL**
+:one: DUO
+:two: HARDI
+:three: DUEL
+:four: SCORE 200
+-
+:zero: **MINOTOROR**
+:one: DUO
+:two: ANACHORETE
+:three: MAIN PROPRE
+:four: SCORE 200
+-
+:zero: **ROYALMOUTH**
+:one: DUO
+:two: MAIN PROPRE
+:three: PREMIER
+:four: SCORE 200
+-
+:zero: **TOFU ROYAL**
+:one: DUO
+:two: STATUE
+:three: DERNIER
+:four: SCORE 200
+-
+:zero: **CROCABULIA**
+:one: DUO
+:two: STATUE
+:three: VERSATILE
+:four: SCORE 200
+-
+:zero: **SKEUNK**
+:one: DUO
+:two: STATUE
+:three: BLITZKRIEG
+:four: SCORE 200
+-
+:zero: **FRAKTALE**
+:one: DUO
+:two: ANACHORETE
+:three: BLITZKRIEG
+:four: SCORE 200
+-
+:zero: **HAUTE TRUCHE**
+:one: DUO
+:two: PREMIER
+:three: BARBARE
+:four: SCORE 200
+-
+:zero: **EL PIKO**
+:one: DUO
+:two: BLITZKRIEG
+:three: DUEL
+:four: SCORE 200
+-
+:zero: **CAPITAINE EKARLATTE**
+:one: DUO
+:two: FOCUS
+:three: STATUE
+:four: SCORE 200
+-
+:zero: **NAGATE**
+:one: DUO
+:two: NOMADE
+:three: PUSILLANISME
+:four: SCORE 200
+-
+:zero: **TANUKOUI SAN**
+:one: DUO
+:two: STATUE
+:three: VERSATILE
+:four: SCORE 200
+-
+:zero: **CHENE MOU**
+:one: DUO
+:two: LIBERTE
+:three: PREMIER
+:four: SCORE 200
+-
+:zero: **TYNRIL**
+:one: DUO
+:two: INTOUCHABLE
+:three: ZOMBIE
+:four: SCORE 200
+-
+:zero: **MANSOT ROYAL**
+:one: DUO
+:two: DERNIER
+:three: COLLANT
+:four: SCORE 200
+-
+:zero: **HANSHI & SHIHAN**
+:one: DUO
+:two: PUSILLANISME
+:three: DERNIER
+:four: SCORE 200
+-
+:zero: **FOUNOROSHI**
+:one: DUO
+:two: PUSILLANISME
+:three: COLLANT
+:four: SCORE 200
+-
+:zero: **BEN LE RIPATE**
+:one: DUO
+:two: CIRCULEZ
+:three: STATUE
+:four: SCORE 200
+-
+:zero: **SPHINCTER CELL**
+:one: DUO
+:two: HARDI
+:three: DERNIER
+:four: SCORE 200
+-
+:zero: **PHOSSILE**
+:one: DUO
+:two: HARDI
+:three: LIBERTE
+:four: SCORE 200
+-
+:zero: **HELL MINA**
+:one: DUO
+:two: DERNIER
+:three: STATUE
+:four: SCORE 200

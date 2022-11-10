@@ -1,0 +1,185 @@
+:zero: **MISSIZ FRIZZ**
+:one: DUO
+:two: NOMADE
+:three: COLLANT
+:four: SCORE 200
+-
+:zero: **SYLARGH**
+:one: DUO
+:two: ANACHORETE
+:three: BARBARE
+:four: SCORE 200
+-
+:zero: **KLIME**
+:one: DUO
+:two: PUSILLANIME
+:three: NOMADE
+:four: SCORE 200
+-
+:zero: **NILEZA**
+:one: DUO
+:two: PUSILLANIME
+:three: DERNIER
+:four: SCORE 200
+-
+:zero: **HAREBOURG**
+:one: DUO
+:two: VERSATILE
+:three: STATUE
+:four: SCORE 200
+-
+:zero: **DOUBLE BOSS**
+:one: HAREBOURG & FRIZZ
+:two: HAREBOURG & SYLARGH
+:three: HAREBOURG & KLIME
+:four: HAREBOURG & NILEZA
+-
+**MERKATOR**
+:one: DUO
+:two: DERNIER
+:three: MYSTIQUE
+:four: SCORE 200
+-
+:zero: **NIDAS**
+:one: DUO
+:two: PREMIER
+:three: STATUE
+:four: SCORE 200
+-
+:zero: **REINE DES VOLEURS**
+:one: TRIO
+:two: PREMIER
+:three: COLLANT
+:four: SCORE 200
+-
+:zero: **PROTOZORREUR**
+:one: DUO
+:two: BARBARE
+:three: STATUE
+:four: SCORE 200
+-
+:zero: **VORTEX**
+:one: TRIO
+:two: FOCUS
+:three: HARDI
+:four: SCORE 200
+-
+:zero: **CHALOEIL**
+:one: TRIO
+:two: LIBERTE
+:three: PUSILLANIME
+:four: SCORE 200
+-
+:zero: **CAPITAINE MENO**
+:one: DUO
+:two: BLITZKRIEG
+:three: PUSILLANIME
+:four: SCORE 200
+-
+:zero: **KOUTOULOU**
+:one: DUO
+:two: PUSILLANIME
+:three: HARDI
+:four: SCORE 200
+-
+:zero: **DANTINEA**
+:one: DUO
+:two: DERNIER
+:three: STATUE
+:four: SCORE 200
+-
+:zero: **TAL KASHA**
+:one: DUO
+:two: STATUE
+:three: FOCUS
+:four: SCORE 200
+-
+:zero: **ANERICE**
+:one: DUO
+:two: PUSILLANIME
+:three: PREMIER
+:four: SCORE 200
+-
+:zero: **ILYZAELLE**
+:one: DUO
+:two: LIBERTE
+:three: FOCUS
+:four: SCORE 200
+-
+:zero: **SOLAR**
+:one: DUO
+:two: VERSATILE
+:three: FOCUS
+:four: SCORE 200
+-
+:zero: **BETHEL**
+:one: DUO
+:two: MYSTIQUE
+:three: ZOMBIE
+:four: SCORE 200
+-
+:zero: **DAZAK**
+:one: DUO
+:two: PREMIER
+:three: LIBERTE
+:four: SCORE 200
+-
+:zero: **TORKELONIA**
+:one: DUO
+:two: DERNIER
+:three: STATUE
+:four: SCORE 200
+-
+:zero: **CORRUPTION**
+:one: DUO
+:two: COLLANT
+:three: MAIN PROPRE
+:four: SCORE 200
+-
+:zero: **GUERRE**
+:one: DUO
+:two: ZOMBIE
+:three: ANACHORETE
+:four: SCORE 200
+-
+:zero: **SERVITUDE**
+:one: DUO
+:two: FOCUS
+:three: VERSATILE
+:four: SCORE 200
+-
+:zero: **MISERE**
+:one: DUO
+:two: HARDI
+:three: MAIN PROPRE
+:four: SCORE 200
+-
+:zero: **4 CAVALIERS**
+:one: QUATUOR
+:two: LIBERTE
+:three: HARDI
+:four: SCORE 200
+-
+:zero: **ROI IMAGAMI**
+:one: TRIO
+:two: HARDI
+:three: MAIN PROPRE
+:four: SCORE 200
+-
+:zero: **REINE AMIRUKAM**
+:one: TRIO
+:two: PUSILLANIME
+:three: MAIN PROPRE
+:four: SCORE 200
+-
+:zero: **KABAHAL**
+:one: DUO
+:two: HARDI
+:three: MAIN PROPRE
+:four: SCORE 200
+-
+:zero: **ETERNEL CONFLIT**
+:one: DUO
+:two: ZOMBIE
+:three: PREMIER
+:four: SCORE 200

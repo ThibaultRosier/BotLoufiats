@@ -1,0 +1,125 @@
+:zero: **KIMBO**
+:one: STATUE
+:two: PREMIER
+:three: DUO
+:four: SCORE
+-
+:zero: **MINOTOT**
+:one: CIRCULEZ
+:two: PREMIER
+:three: DUO
+:four: SCORE
+-
+:zero: **OBSIDIANTRE**
+:one: PREMIER
+:two: STATUE
+:three: DUO
+:four: SCORE
+-
+:zero: **KANIGROULA**
+:one: PREMIER
+:two: HARDI
+:three: DUO
+:four: SCORE
+-
+:zero: **USH**
+:one: PREMIER
+:two: ZOMBIE
+:three: DUO
+:four: SCORE
+-
+:zero: **SHOGUN TOFUGAWA**
+:one:PREMIER
+:two: HARDI
+:three: DUO
+:four: SCORE
+-
+:zero: **TENGU GIVREFOUX**
+:one: PREMIER
+:two: STATUE
+:three: DUO
+:four: SCORE
+-
+:zero: **PERE VER**
+:one: PREMIER
+:two: ZOMBIE
+:three: DUO
+:four: SCORE
+-
+:zero: **XLII**
+:one: BARBARE
+:two: COLLANT
+:three: DUO
+:four: SCORE
+-
+:zero: **KOUMIHO**
+:one: FOCUS
+:two: PREMIER
+:three: DUO
+:four: SCORE
+-
+:zero: **KORRIANDRE**
+:one: MYSTIQUE
+:two: ZOMBIE
+:three: DUO
+:four: SCORE
+-
+:zero: **KRALAMOUR GEANT**
+:one: NOMADE
+:two: BLITZKRIEG
+:three: DUO
+:four: SCORE
+-
+:zero: **BWORKER**
+:one: HARDI
+:two: BLITZKRIEG
+:three: DUO
+:four: SCORE
+-
+:zero: **OUGAH**
+:one: COLLANT
+:two: DERNIER
+:three: DUO
+:four: SCORE
+-
+:zero: **TOXOLIATH**
+:one: CIRCULEZ
+:two: ANACHORETE
+:three: DUO
+:four: SCORE
+-
+:zero: **KOLOSSO**
+:one: DERNIER
+:two: PREMIER
+:three: DUO
+:four: SCORE
+-
+:zero: **FUJI GIVREFOUX**
+:one: DERNIER
+:two: STATUE
+:three: DUO
+:four: SCORE
+-
+:zero: **SAKAI**
+:one: VERSATILE
+:two: BLITZKRIEG
+:three: DUO
+:four: SCORE
+-
+:zero: **GLOURCELESTE**
+:one: PREMIER
+:two: COLLANT
+:three: DUO
+:four: SCORE
+-
+:zero: **OMBRE**
+:one: PREMIER
+:two: COLLANT
+:three: DUO
+:four: SCORE
+-
+:zero: **RAZOF**
+:one: LIBERTE
+:two: PREMIER
+:three: DUO
+:four: SCORE

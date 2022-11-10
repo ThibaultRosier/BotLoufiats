@@ -1,0 +1,79 @@
+**BWORKER**
+:a: Audace
+:b: Bravour
+-
+**PHOSSILE**
+:a: Audace
+:b: Bravour
+-
+**MINOTOT**
+:a: Audace
+:b: Bravour
+-
+**KANIGROULA**
+:a: Audace
+:b: Bravour
+-
+**GROLLOUM**
+:a: Audace
+:b: Bravour
+-
+**MISSIZ FRIZZ**
+:a: Audace
+:b: Bravour
+-
+**OMBRE**
+:a: Audace
+:b: Bravour
+-
+**CAPITAINE MENO**
+:a: Audace
+:b: Bravour
+-
+**XLII**
+:a: Audace
+:b: Bravour
+-
+**COMTE HAREBOURG**
+:a: Audace
+:b: Bravour
+-
+**TOXOLIATH**
+:a: Audace
+:b: Bravour
+-
+**GUERRE**
+:a: Audace
+:b: Bravour
+-
+**MERKATOR**
+:a: Audace
+:b: Bravour
+-
+**SOLAR**
+:a: Audace
+:b: Bravour
+-
+**KLIME**
+:a: Audace
+:b: Bravour
+-
+**PROTOZORREUR**
+:a: Audace
+:b: Bravour
+-
+**DANTINEA**
+:a: Audace
+:b: Bravour
+-
+**KOUTOULOU**
+:a: Audace
+:b: Bravour
+-
+**DAZAK MARTEGEL**
+:a: Audace
+:b: Bravour
+-
+**ILYZAELLE**
+:a: Audace
+:b: Bravour
